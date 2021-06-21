@@ -47,9 +47,6 @@ I'm a full-stack developer who has made a full-time profession out of years of f
   
 
 - ❓ Feel free to contact me I am open for discussions  
-  
-
-- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
