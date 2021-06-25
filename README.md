@@ -22,9 +22,6 @@
 <a href="https://stackoverflow.com/users/2426224/daniel-ehrhardt" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/UCf3fRcJQBBvNeCnHzRwizFg" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
   
 
 
@@ -150,12 +147,7 @@ I'm a full-stack developer who has made a full-time profession out of years of f
                     align="left"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/danielehrhardt" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="left"
-                />
-            </a>
 <br />
+  </div>
 
 ----
