@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I'm a full-stack developer who has made a full-time profession out of years of freelancing. Being a full-stack developer allows me to create both web apps  as well as cutting-edge backend applications.
+I'm a full-stack developer who has made a full-time profession out of years of freelancing and private developing. I love creating web applications. You can let your creativity run free. I am also enthusiastic about backend applications and databases.
   
   
 
