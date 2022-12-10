@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I'm a full-stack developer who has made a full-time profession out of years of freelancing and private developing. I love creating web applications. You can let your creativity run free. I am also enthusiastic about backend applications and databases.
+As a full-stack developer with years of experience in freelancing and private projects, I specialize in creating web applications that showcase my passion for coding and design. I am particularly skilled in backend development and database management, and I enjoy the challenge of bringing new ideas to life. Whether you need a custom web app or a reliable webapp, I am here to help you unleash your creativity and make your vision a reality.
   
   
 
